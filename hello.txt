@@ -4,5 +4,5 @@ T.Exp:3.1 Year
 Rel Exp:1Year
 C.CTC(Fixed/Variable):3.1LPA
 E.CTC:5.8LPA.
-NP(Negotiable/Buyout):5.6LPA.
+NP(Negotiable/Buyout):6.2LPA.
 Montaigne Smart Business  Attended:No
