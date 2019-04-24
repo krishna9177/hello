@@ -6,3 +6,5 @@ C.CTC(Fixed/Variable):3.1LPA
 E.CTC:5.8LPA.
 NP(Negotiable/Buyout):6.2LPA.
 Montaigne Smart Business  Attended:No
+
+saikrishna puvvadi is brand.
